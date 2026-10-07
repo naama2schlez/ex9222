@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
                 if(bt2)
                 {
                     a2=new AlertDialog.Builder(MainActivity.this);
-                    String [] movie={"כסף", "כרטיס לסרט" , "חטיפים", "בקבוק מים"};
+                    String [] movie={"אשראי", "כרטיס לסרט" , "חטיפים", "בקבוק מים"};
                     String [] sea={"קרם הגנה", "מגבת" , "אוכל", "בקבוק מים"};
                     String [] res={"כסף", "מצלמה" , "כרטיס הזמנה", "איפור קליל"};
                     String [] app={"כסף", "כרטיס להופעה" , "בושם", "בקבוק מים"};
